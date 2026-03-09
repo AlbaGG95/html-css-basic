@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1152" height="768" viewBox="0 0 1152 768">
+  <rect width="1152" height="768" fill="#000000"/>
+
+  <text x="56" y="132" fill="#06245a" font-size="78" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    Tipos de selectores
+  </text>
+
+  <text x="56" y="264" fill="#ff3b3b" font-size="58" font-family="Arial, Helvetica, sans-serif">
+    Parrafo 1 fuera del div
+  </text>
+
+  <text x="56" y="390" fill="#ff9800" font-size="58" font-family="Arial, Helvetica, sans-serif">
+    Parrafo 2 fuera del div
+  </text>
+
+  <text x="56" y="506" fill="#20b8c4" font-size="52" font-family="Arial, Helvetica, sans-serif">
+    Parrafo 1 dentro del div (sin clase)
+  </text>
+
+  <text x="56" y="610" fill="#7e5ac8" font-size="52" font-family="Arial, Helvetica, sans-serif" font-weight="700">
+    Parrafo 2 dentro del div (con clase)
+  </text>
+
+  <text x="56" y="702" fill="#113d78" font-size="52" font-family="Arial, Helvetica, sans-serif" font-style="italic">
+    Parrafo dentro de section
+  </text>
+</svg>
